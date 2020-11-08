@@ -1,0 +1,8 @@
+h1 {text-align:center; color: #efeee7;font-size: 28px;width: 1024px; background-color: #333333;}
+h2 {text-align: left;font-size: 24px; width: 1024px; color: #efeee7 background-color: #333333}
+hr {color: dimgrey;}
+body { background-color: #efeee7; font-family: Georgia, 'Times New Roman', Times, serif; color: #333333; margin: 0;padding: 0;}
+.container {margin: auto; width: 1024px; align-items: left;}
+#bio-image {width: 200px;}
+#main-bio { width: 70%; }
+#contact-info {width: 30%; line-height: 150%;}
